@@ -16,3 +16,4 @@ This repository is intended for educational, demonstration, and portfolio purpos
 
 Author: Saharnaz Yaghoobpour  
 Automation, Data, and AI-oriented Development
+🎯 MY GOAL:Aiming to lead the evolution of Automotive AI Systems through innovation and data-driven solutions.
